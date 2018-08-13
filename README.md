@@ -1,5 +1,5 @@
 # leetcode初级算法，solutions in Java
-[点击查看问题描述](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/)
+[点击查看问题描述](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/)（需先登录leetcode账号）
 ## [数组](https://github.com/ADU7/leetcode/tree/master/src/array)
   * [从排序数组中删除重复项](https://github.com/ADU7/leetcode/blob/master/src/array/Question1.java)
   * [买卖股票的最佳时机 II](https://github.com/ADU7/leetcode/blob/master/src/array/Question11.java)
